@@ -4,7 +4,7 @@ A basic Python-based movie recommendation system that suggests movies to users b
 
 ## 📖 The Story Behind the Project
 It is Friday night. You open a streaming app, ready to relax. Instead, you spend the next 45 minutes scrolling through endless grids of posters, watching trailers, and reading reviews. By the time you finally pick a movie, you are too tired to watch it. We call this "Netflix Paralysis." 
-
+ 
 This project was born out of that exact frustration. Instead of letting an algorithm overwhelm you with trending noise, this system relies on pure content similarity. You tell it one movie you love, and it instantly digs through genres, keywords, and plot tags to find your next watch—saving your Friday nights.
 
 ## Features
