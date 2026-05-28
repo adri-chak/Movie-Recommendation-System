@@ -10,7 +10,7 @@ This project was born out of that exact frustration. Instead of letting an algor
 ## Features
 * **The "Friday Night Fix":** Enter a movie title to instantly find similar recommendations.
 * **Tag Matching:** Recommends movies by connecting matching genres and plot keywords.
-* **No Clutter:** Interactive code blocks that let you see the recommendations instantly.
+* **No Clutter:** Interactive code blocks that let you see the recommendations instantly. 
 
 ## Technologies Used 
 * Python
