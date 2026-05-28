@@ -12,7 +12,7 @@ This project was born out of that exact frustration. Instead of letting an algor
 * **Tag Matching:** Recommends movies by connecting matching genres and plot keywords.
 * **No Clutter:** Interactive code blocks that let you see the recommendations instantly.
 
-## Technologies Used
+## Technologies Used 
 * Python
 * Jupyter Notebook 
 * Pandas
